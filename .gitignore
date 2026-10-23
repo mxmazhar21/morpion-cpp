@@ -1,0 +1,7 @@
+# Fichiers macOS
+.DS_Store
+
+# Fichiers générés par la compilation
+build/
+/morpion
+/test_morpion
